@@ -10,7 +10,7 @@ Ext.define("FeedsColumns.view.HomePanel", {
         },
     	items:[
     		{
-		    	html:'<h1>Hi. This is just a small app letting you browse content from APIs.</h1><h3>For now, you can browse public content from Twitter and Flickr.</h3><h5>I\'ll add later more APIs, more templating options and real-time data search with socket.io</h5><p>Follow me on twitter : <a href="http://twitter.com/flrent" target="_new">@flrent</a></p><p>This app is on github : </p>'
+		    	html:'<h1>Hi. This is just a small app letting you browse content from APIs.</h1><h3>For now, you can browse public content from Twitter and Flickr.</h3><h5>I\'ll add later more APIs, more templating options and real-time data search with socket.io</h5><p>Follow me on twitter : <a href="http://twitter.com/flrent" target="_new">@flrent</a></p><p>This app is on github : <a href="https://github.com/flrent/FeedsColumns.git" target="_new">https://github.com/flrent/FeedsColumns.git</a></p>'
     		},
     		{
     			xtype:'formpanel',
